@@ -1,2 +1,3 @@
 #!/bin/bash
-touch tes.sh
+echo "wellcome to my world"
+
